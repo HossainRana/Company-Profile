@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="Group_14853" data-name="Group 14853" transform="translate(-1278 -3598)">
+    <g id="Group_12405" data-name="Group 12405" transform="translate(964 1346)">
+      <g id="Group_12398" data-name="Group 12398" transform="translate(0 16.199)">
+        <g id="Group_7958" data-name="Group 7958" transform="translate(314 2236)">
+          <circle id="Ellipse_97" data-name="Ellipse 97" cx="27" cy="27" r="27" transform="translate(0 -0.199)" fill="#f3f6ff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_65929" data-name="Path 65929" d="M-20461.957-3630.814l13.059-6.138,12.832,6.138v2.4h-26.08Z" transform="translate(21754 7276)" fill="#95dde6"/>
+    <g id="bank_2_" data-name="bank (2)" transform="translate(1290.668 3609.667)">
+      <g id="Group_13753" data-name="Group 13753">
+        <g id="Group_13752" data-name="Group 13752">
+          <path id="Path_65929-2" data-name="Path 65929" d="M27.741,27.741V25.9h-.925V23.125H25.89V12.048h.925V9.277h.925V6.213L14.333,0,.925,6.213V9.277h.925v2.771h.925V23.125H1.851V25.9H.925v1.845H0v.925H28.666v-.925ZM1.851,8.352V6.805l12.482-5.79L26.815,6.8V8.352Zm14.8,14.773V12.048h.925V9.277h2.776v2.771h.925V23.125h-.925V25.9H17.572V23.125Zm-9.249,0V12.048h.925V9.277H11.1v2.771h.92V23.125h-.925V25.9H8.318V23.125Zm-4.622-12V9.283H7.4v1.845Zm3.7.92V23.125H3.7V12.048Zm5.547,12h4.627V25.9H12.019Zm.925-.925V12.048h2.776V23.125Zm-.925-12V9.283h4.627v1.845ZM21.268,24.05H25.89V25.9H21.268Zm.925-.925V12.048H24.97V23.125Zm-.925-12V9.283H25.89v1.845ZM2.776,24.05H7.4V25.9H2.776Zm24.044,3.69H1.851v-.925h24.97Z" fill="#404cdc"/>
+        </g>
+      </g>
+      <g id="Group_13755" data-name="Group 13755" transform="translate(12.019 2.816)">
+        <g id="Group_13754" data-name="Group 13754">
+          <path id="Path_65930" data-name="Path 65930" d="M215.314,49.9a2.308,2.308,0,1,0,2.314,2.308A2.312,2.312,0,0,0,215.314,49.9Zm0,3.7a1.383,1.383,0,1,1,1.388-1.383A1.386,1.386,0,0,1,215.314,53.6Z" transform="translate(-213 -49.9)" fill="#404cdc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
